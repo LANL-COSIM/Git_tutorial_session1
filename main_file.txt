@@ -3,3 +3,10 @@ This is the main file for the repo.
 This repository will be used for learning git.
 
 In addition to learning git, people can learn how to make good commit messages.
+
+Unfortunately, ACME branch naming conventions are disturbingly verbose. 
+
+:-(
+
+Too bad, so sad.
+
