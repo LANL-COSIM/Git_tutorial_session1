@@ -6,4 +6,4 @@ In addition to learning git, people can learn how to make good commit messages.
 
 this is a change, or actually, and addition. 
 
-
+Greenland is big and cold.
